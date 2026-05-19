@@ -1,1 +1,0 @@
-# consideritman.github.io
