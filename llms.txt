@@ -1,0 +1,7 @@
+# considerITman
+
+> Microsoft 365 security and compliance blog. Practical configuration guides, policy walkthroughs, and architecture deep-dives for IT professionals managing M365 E3 and E5 environments.
+> Author: Alexander Schirmer | Site: https://consideritman.github.io
+
+## Posts
+
