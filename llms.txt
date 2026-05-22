@@ -5,3 +5,7 @@
 
 ## Posts
 
+- [Complete Guide: Conditional Access Policies in Entra ID](https://consideritman.github.io/posts/configure-conditional-access-entra-id/): Step-by-step guide to Conditional Access in Microsoft Entra ID. Covers policy anatomy, grant controls, sign-in risk, user risk, and safe rollout for E3 and E5.
+- [How to Configure DLP Policies in Microsoft 365](https://consideritman.github.io/posts/configure-dlp-policies-microsoft-365/): Configure DLP policies in Microsoft Purview step by step. Covers SITs, simulation mode, Teams, Endpoint, and Copilot.
+- [My Post](https://consideritman.github.io/posts/my-post/)
+- [Hello World](https://consideritman.github.io/posts/hello-world/)
