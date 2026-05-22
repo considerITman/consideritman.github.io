@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://consideritman.github.io/sitemap.xml
